@@ -33,7 +33,7 @@ h1 {
     margin: 8px auto;
 }
 
-#about {
+.about {
     font-family: sans-serif;
     color: black;
 }
@@ -80,6 +80,16 @@ h1 {
     height: 50%;
     color: darkblue;
 }
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 
 #info {
     padding: 10px;
@@ -95,4 +105,7 @@ h1 {
 }
 p{
     font-size: 25px;
+}
+a{
+    text-decoration: none;
 }
