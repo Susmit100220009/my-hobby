@@ -109,3 +109,12 @@ p{
 a{
     text-decoration: none;
 }
+.limg{
+    border-radius:0;
+    border:solid 10px black;
+    height:400px;
+    width:320px;
+}
+.img{
+    padding-right: 70px;
+}
